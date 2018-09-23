@@ -14,6 +14,9 @@ gem 'turbolinks'
 gem 'jbuilder'
 gem 'bootsnap'
 gem 'listen'
+gem 'bootstrap-sass'
+gem 'sprockets'
+gem 'devise'
 
 group :doc do
   gem 'sdoc', require: false
